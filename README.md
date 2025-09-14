@@ -42,7 +42,10 @@ var settings = {
 支持所有现代浏览器，包括：
 
 Chrome (推荐)
+
 Firefox
+
 Safari
+
 Edge
 
